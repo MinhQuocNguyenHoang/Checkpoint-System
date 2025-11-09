@@ -68,7 +68,7 @@ This project aims to support performance evaluation, racing logic tracking, and 
     - Segment times
     - Robot progress charts
     - Frontend technologies: HTML/CSS/JS
-- [GUI-Dashboard](./web.png)
+![GUI-Dashboard](./web.png)
 
 ## Setup & Installation
 ```
