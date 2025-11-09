@@ -52,7 +52,7 @@ This project aims to support performance evaluation, racing logic tracking, and 
 ## Features
 - Interrupt-based detection of IR sensors at checkpoints
 - Capture precise timestamps using hardware timers
-- Format data as JSON for WebSocket transmission
+- Format data as single text for WebSocket transmission
 - Automatic reconnection if WiFi or WebSocket drops
 - Send timing data via WebSocket using simple text format: <checkpoint_id>|<elapsed_time>
 ```
