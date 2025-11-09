@@ -45,7 +45,7 @@ This project aims to support performance evaluation, racing logic tracking, and 
     Checkpoint-System/
     │
     ├── Checkpoint_System/ # Embedded code for ESP32 (sensor reading + WebSocket communication)
-    ├── checkpoint-web/ # Web dashboard (frontend + backend server)
+    ├── checkpoint-web/ # Web dashboard
     └── README.md
 ```
 
@@ -58,7 +58,6 @@ This project aims to support performance evaluation, racing logic tracking, and 
 ```
 2|3456
 # 2 → checkpoint ID (STT)
-
 # 3456 → elapsed time in milliseconds at the checkpoint
 ```
 
